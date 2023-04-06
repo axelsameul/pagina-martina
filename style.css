@@ -1,0 +1,92 @@
+
+
+.nav-navbar{
+    background-color:  #232F3E;
+}
+.footer-class{
+    background-color:  #232F3E;
+}
+.social-icons i{
+    color: #f5f8f5f1;
+}
+.class-rodrigo{
+    font-size: 30px;
+}
+.class-samuel{
+  
+        background-color:  #232F3E;  
+}
+.nav-classs {
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 100%;
+}
+
+
+@media (max-width: 700px) {
+    
+
+
+    .container{
+       display: block;
+        flex-direction: column;
+    }
+    .card-body{
+        justify-content: center;
+        text-align: center;
+    }
+    .footer-class{
+        display: block;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    .class-text ul{
+        text-align: center;
+        justify-content: center;
+        margin-left: 40px;
+
+    }
+    .class-buscar h3{
+        font-size: 20px;
+margin-left: 100px;
+    }
+    .card {
+        margin-bottom: 5px;
+        
+    }
+    .card-body {
+        border: 2px solid #232F3E;
+        margin-left: 70px;
+        width: 70%;
+        justify-content: center; 
+     
+}
+.card img{
+    margin-left: 70px;
+    width: 70%;
+    justify-content: center;
+}
+.class-rodrigo{
+    font-size: 15px;
+}
+.btn{
+    font-size: 10px;
+}
+.class-buscarla input{
+  margin-left: 40px;
+    height: 20px;
+    width: 15%;
+    
+}
+.class-tendencias h5{
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+.class-map iframe{
+    width: 40%;
+}
+
+
+}
