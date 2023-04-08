@@ -87,6 +87,92 @@ margin-left: 100px;
 .class-map iframe{
     width: 40%;
 }
+.classs-conta {
+    flex-direction: column;
+}
+.social-media h4{
+    text-align: center;
+    margin-top: 10%;
 
+}
+.social-icons li{
+    justify-content: center;
+
+}
+
+}
+@media (max-width: 400px){
+    .class-mapa iframe{
+border-radius: px;
+height: 80px;
+width: 80%;
+margin-bottom: 5px;
+    }
+    .class-bodyyy{
+        margin-left: 60px;
+        margin-right: 30px;
+        width: 50%;
+        text-align: center;
+        justify-content: center;
+    }
+    .social-iconsss  li{
+        font-size: 10px;
+        text-align: center;
+        justify-content: center;
+        color: aliceblue;
+    }
+    
+    .social-media h4{
+        font-size: 12px;
+    }
+    .card-body {
+       
+       
+        width: 35%;
+        
+
+}
+.card {
+    display: none;
+    
+}
+.card img{
+    
+    width: 35%;
+    justify-content: center;}
+
+.card-body h5{
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 35px;
+}
+
+
+
+.class-buscar h3
+{
+ margin-left: 80px;
+    width: 50%;
+    font-size: 15px;
+    text-align: center;
+}
+.class-text ul{
+    text-align: center;
+    margin-right: 35px;
+}
+.card-body a{
+    font-size: 10px;
+}
+.class-no img{
+    justify-content: center;
+   margin-right: 50px;
+  
+}
+.social-icons li{
+    margin-right: 30px;
+    font-size: 20px;
+}
 
 }
